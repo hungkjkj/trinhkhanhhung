@@ -1,2 +1,3 @@
-# trinhkhanhhung
-skibidi dop dop yes yes
+Trịnh Khánh Hưng 
+học khoa học máy tính trường đại học công nghệ thông tin (uit)
+
